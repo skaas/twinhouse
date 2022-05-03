@@ -8,5 +8,3 @@
 * 부동산 자산 E-주택(NFT)
 
 모든 자산이 블록체인에 기록되며 여러 방법으로 누구나 열람이 가능합니다.
-
-{% embed url="https://2w3pnm4iy73.typeform.com/to/P228Ngvj" %}
