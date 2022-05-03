@@ -18,14 +18,14 @@
 
 * [개요](tokenomics/about.md)
 * [TW (토큰)](tokenomics/tw/README.md)
-  * [획득과 소각](tokenomics/tw/earn\_burn.md)
-  * [통화정책](tokenomics/tw/economics.md)
-  * [토큰배분](tokenomics/tw/undefined.md)
-  * [중앙은행](tokenomics/tw/centralbank.md)
+  * [획득과 소각](tokenomics/tw/undefined.md)
+  * [통화정책](tokenomics/tw/undefined-1.md)
+  * [토큰배분](tokenomics/tw/undefined-2.md)
+  * [중앙은행](tokenomics/tw/undefined-3.md)
 * [E-주택(NFT)](tokenomics/nft/README.md)
-  * [획득방법](tokenomics/nft/earn\_burn.md)
-  * [소유자 혜택](tokenomics/nft/owners\_benefit.md)
-  * [보유세](tokenomics/nft/tax.md)
+  * [획득방법](tokenomics/nft/undefined.md)
+  * [소유자 혜택](tokenomics/nft/undefined-1.md)
+  * [보유세](tokenomics/nft/undefined-2.md)
 
 ## 거버넌스 <a href="#governance" id="governance"></a>
 
