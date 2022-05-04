@@ -14,8 +14,10 @@ TW의 경제는 [화폐수량설(Quantity\_theory\_of\_money)](https://ko.wikipe
 * 실제 통화 절하 1/ 1,000,000 (백만분의 일)
 
 $$
-3,300,000,0000 * 0.3 / 2.4
+3,300,000,000 * 0.3 / 2.4
 $$
+
+
 
 {% hint style="info" %}
 기대회전률과 화폐유통속도는 에어드롭물량으로 예측하였고, [개발일지 #1](https://medium.com/@twinhouse/%ED%8A%B8%EC%9C%88%ED%95%98%EC%9A%B0%EC%8A%A4-%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80-1-6b05db160eb2) 을 참고 부탁드립니다.
