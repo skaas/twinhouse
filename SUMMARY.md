@@ -5,7 +5,7 @@
 ## 트윈하우스 <a href="#twinhouse" id="twinhouse"></a>
 
 * [트윈하우스의 비전](twinhouse/vision.md)
-* [서비스 설명](twinhouse/about/README.md)
+* [트윈하우스 설명](twinhouse/about/README.md)
   * [NFT(E-주택)와 거래](twinhouse/about/nftNtrade.md)
   * [트윈하우스 확장성](twinhouse/about/potential.md)
 
