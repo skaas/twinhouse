@@ -4,15 +4,10 @@
 
 ## 트윈하우스 <a href="#twinhouse" id="twinhouse"></a>
 
-* [트윈하우스의 비전](twinhouse/vision.md)
-* [트윈하우스 설명](twinhouse/about/README.md)
+* [트윈하우스의 목표](twinhouse/vision.md)
+* [트윈하우스 비전](twinhouse/about/README.md)
   * [NFT(E-주택)와 거래](twinhouse/about/nftNtrade.md)
   * [트윈하우스 확장성](twinhouse/about/potential.md)
-
-***
-
-* [플랫폼 로드맵](roadmap/README.md)
-  * [Phase 1\~2.  단기 목표](roadmap/short\_term.md)
 
 ## 토큰이코노미 <a href="#tokenomics" id="tokenomics"></a>
 
@@ -30,7 +25,7 @@
 ## 거버넌스 <a href="#governance" id="governance"></a>
 
 * [개요](governance/about.md)
-* [지역DAO](governance/local\_dao/README.md)
+* [지역, 단지 DAO](governance/local\_dao/README.md)
   * [가입과 배분](governance/local\_dao/about.md)
   * [수익 사업](governance/local\_dao/revenue.md)
 * [분양사업DAO](governance/business\_dao/README.md)
